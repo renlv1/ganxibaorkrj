@@ -1,0 +1,121 @@
+@-moz-keyframes slideLeftIn {
+    from {
+        opacity: 0;
+        left: 0;
+    }
+    to {
+        opacity: 1;
+        left: 45px;
+    }
+}
+@-webkit-keyframes slideLeftIn {
+    from {
+        opacity: 0;
+        left: 0;
+    }
+    to {
+        opacity: 1;
+        left: 45px;
+    }
+}
+@keyframes slideLeftIn {
+    from {
+        opacity: 0;
+        left: 0;
+    }
+    to {
+        opacity: 1;
+        left: 45px;
+    }
+}
+@-moz-keyframes slideLeftOut {
+    from {
+        opacity: 1;
+        left: 45px;
+    }
+    to {
+        opacity: 0;
+        left: 0;
+    }
+}
+@-webkit-keyframes slideLeftOut {
+    from {
+        opacity: 1;
+        left: 45px;
+    }
+    to {
+        opacity: 0;
+        left: 0;
+    }
+}
+@keyframes slideLeftOut {
+    from {
+        opacity: 1;
+        left: 45px;
+    }
+    to {
+        opacity: 0;
+        left: 0;
+    }
+}
+
+@-moz-keyframes slideRightIn {
+    from {
+        opacity: 0;
+        right: 0;
+    }
+    to {
+        opacity: 1;
+        right: 50px;
+    }
+}
+@-webkit-keyframes slideRightIn {
+    from {
+        opacity: 0;
+        right: 0;
+    }
+    to {
+        opacity: 1;
+        right: 50px;
+    }
+}
+@keyframes slideRightIn {
+    from {
+        opacity: 0;
+        right: 0;
+    }
+    to {
+        opacity: 1;
+        right: 50px;
+    }
+}
+@-moz-keyframes slideRightOut {
+    from {
+        opacity: 1;
+        right: 50px;
+    }
+    to {
+        opacity: 0;
+        right: 0;
+    }
+}
+@-webkit-keyframes slideRightOut {
+    from {
+        opacity: 1;
+        right: 50px;
+    }
+    to {
+        opacity: 0;
+        right: 0;
+    }
+}
+@keyframes slideRightOut {
+    from {
+        opacity: 1;
+        right: 50px;
+    }
+    to {
+        opacity: 0;
+        right: 0;
+    }
+}
